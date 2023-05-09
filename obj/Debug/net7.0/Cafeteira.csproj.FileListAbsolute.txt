@@ -1,0 +1,15 @@
+C:\Users\56026708820\Desktop\Cafeteira\obj\Debug\net7.0\Cafeteira.csproj.AssemblyReference.cache
+C:\Users\56026708820\Desktop\Cafeteira\obj\Debug\net7.0\Cafeteira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56026708820\Desktop\Cafeteira\obj\Debug\net7.0\Cafeteira.AssemblyInfoInputs.cache
+C:\Users\56026708820\Desktop\Cafeteira\obj\Debug\net7.0\Cafeteira.AssemblyInfo.cs
+C:\Users\56026708820\Desktop\Cafeteira\obj\Debug\net7.0\Cafeteira.csproj.CoreCompileInputs.cache
+C:\Users\56026708820\Desktop\Cafeteira\bin\Debug\net7.0\Cafeteira.exe
+C:\Users\56026708820\Desktop\Cafeteira\bin\Debug\net7.0\Cafeteira.deps.json
+C:\Users\56026708820\Desktop\Cafeteira\bin\Debug\net7.0\Cafeteira.runtimeconfig.json
+C:\Users\56026708820\Desktop\Cafeteira\bin\Debug\net7.0\Cafeteira.dll
+C:\Users\56026708820\Desktop\Cafeteira\bin\Debug\net7.0\Cafeteira.pdb
+C:\Users\56026708820\Desktop\Cafeteira\obj\Debug\net7.0\Cafeteira.dll
+C:\Users\56026708820\Desktop\Cafeteira\obj\Debug\net7.0\refint\Cafeteira.dll
+C:\Users\56026708820\Desktop\Cafeteira\obj\Debug\net7.0\Cafeteira.pdb
+C:\Users\56026708820\Desktop\Cafeteira\obj\Debug\net7.0\Cafeteira.genruntimeconfig.cache
+C:\Users\56026708820\Desktop\Cafeteira\obj\Debug\net7.0\ref\Cafeteira.dll
